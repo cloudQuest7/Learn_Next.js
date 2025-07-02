@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-          A Blog for coder by the coder.
+          A Blog for coder by the coder by AKI7.
           </li>
         </ol>
 

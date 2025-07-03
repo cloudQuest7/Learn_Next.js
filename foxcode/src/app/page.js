@@ -4,6 +4,16 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
+      {/* Simple Navbar */}
+      <nav className={styles.navbar}>
+        
+        <ul className={styles.navLinks}>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Docs</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </nav>
+      {/* End Navbar */}
       <main className={styles.main}>
         <Image
           className={styles.logo}

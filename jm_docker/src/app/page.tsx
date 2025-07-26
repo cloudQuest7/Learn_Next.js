@@ -22,6 +22,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
            Demo acclerated by{" "}
+           git changes and{" "}
           </li>
         </ol>
 

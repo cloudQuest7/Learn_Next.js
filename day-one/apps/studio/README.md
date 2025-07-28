@@ -10,3 +10,5 @@ Now you can do the following things:
 
 cd apps/studio
 pnpm run dev
+
+and retrieve the functions

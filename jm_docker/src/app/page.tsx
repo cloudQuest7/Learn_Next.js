@@ -21,8 +21,8 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-           Demo acclerated by{" "}
-           git changes and{" "}
+           learning Next.js is fun! Check out the{" "}
+           and dockerize your app with{" "}
           </li>
         </ol>
 
